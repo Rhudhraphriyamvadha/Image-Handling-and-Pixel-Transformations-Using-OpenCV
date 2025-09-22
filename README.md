@@ -1,7 +1,7 @@
-# Image-Handling-and-Pixel-Transformations-Using-OpenCV 
+# EXP.NO-1: Image-Handling-and-Pixel-Transformations-Using-OpenCV 
 
-### NAME: Rhudhra phriyamvadha K S
-### REG NO: 212224040275
+## NAME: Rhudhra phriyamvadha K S
+## REG NO: 212224040275
 
 ## AIM:
 Write a Python program using OpenCV that performs the following tasks:
